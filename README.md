@@ -1,2 +1,2 @@
 # Logica-Programacao-Java
-Repositório dedicado às minhas anotações, exercícios e aprendizados durante meus estudos de Lógica de Programação em Java. Contém conceitos fundamentais, exemplos práticos e resoluções de exercícios para desenvolver o raciocínio lógico e fortalecer minha base na programação.
+Repositório com exemplos práticos e desafios desenvolvidos durante a revisão de Lógica de Programação. O objetivo é reforçar conhecimentos, aprimorar o raciocínio lógico e consolidar o aprendizado por meio da prática e da resolução de problemas.
